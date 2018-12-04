@@ -18,4 +18,13 @@ Download the development kit [here].
 The development kit provides a local webpanel for easy communiation and interfacing with the bot.
 
 You must create your own app [here](https://discordapp.com/developers/applications/).
-Run the bot from the commandline by running `bob-builder`. If you would rather use the command line use argument `--noWeb`
+Run the bot from the commandline by running `bob`. If you would rather use the command line use argument `--noWeb`
+
+# TODO
+ - [ ] Command parser
+ - [ ] Module loader
+ - [ ] Bob the bot builder
+ - [ ] Module bundler
+ - [ ] Module analizer
+ - [ ] Bob's webpanel
+ - [ ] Main bot website
